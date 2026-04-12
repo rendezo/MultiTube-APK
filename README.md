@@ -17,7 +17,7 @@ MultiTube is a high-performance, minimalist 4-window video player specifically e
 
 ## ✨ Key Features
 - **Quad-Stream Layout**: Watch up to 4 YouTube live streams simultaneously.
-- **TV Remote Optimized**: Seamless navigation designed specifically for standard TV remotes.
+- **TV Remote Optimized**: Seamless navigation designed specifically for standard Android TV remotes.
 - **Smart Quality Control**: Auto-adjusts resolution based on focus and TV decoder capabilities.
 - **Long-Press Refresh**: Stuck stream? Just long-press the center button to re-extract and reload.
 - **One-Click Deployment**: Built-in automated update system to keep you on the latest version.
@@ -41,7 +41,7 @@ MultiTube is a high-performance, minimalist 4-window video player specifically e
 
 ## ✨ Főbb jellemzők
 - **4-Ablakos elrendezés**: Nézz akár 4 YouTube streamet egyszerre, egyetlen képernyőn.
-- **TV Távirányítóra optimalizálva**: Nincs szükség egérre, minden funkció elérhető a kereszttel.
+- **TV Távirányítóra optimalizálva**: Nincs szükség egérre, minden funkció elérhető a tavirányítóval.
 - **Intelligens minőségvezérlés**: Automatikusan állítja a felbontást a fókusz és a TV hardvere alapján.
 - **Hosszú nyomásos frissítés**: Elakadt az adás? Csak tartsd hosszan az OK gombot az újratöltéshez.
 - **Automatikus frissítés**: Mindig jelzi, ha elérhető új verzió a folyamatos fejlesztésekhez.
