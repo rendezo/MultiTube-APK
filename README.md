@@ -1,6 +1,6 @@
 # 📺 MultiTube - Multi-Window Android TV Player
 
-[![Release](https://img.shields.io/badge/Release-v26-orange.svg)](https://github.com/rendezo/MultiTube-APK/raw/main/MultiTube.apk)
+[![Release](https://img.shields.io/badge/Release-v32-orange.svg)](https://github.com/rendezo/MultiTube-APK/raw/main/MultiTube.apk)
 [![Platform](https://img.shields.io/badge/Platform-Android%20TV-blue.svg)](https://www.android.com/tv/)
 
 MultiTube is a minimalist 4-window video player specifically engineered for Android TV. Perfect for monitoring multiple live streams, news channels, or sports events simultaneously on a single screen.
@@ -16,7 +16,7 @@ MultiTube is a minimalist 4-window video player specifically engineered for Andr
 # 🇬🇧 English
 
 ## ✨ Key Features
-- **Quad-Stream Layout**: Watch up to 4 YouTube live streams simultaneously.
+- **Quad-Stream Layout**: Watch up to 4 live streams simultaneously.
 - **TV Remote Optimized**: Seamless navigation designed specifically for standard Android TV remotes.
 - **Smart Quality Control**: Auto-adjusts resolution based on focus and TV decoder capabilities.
 - **Long-Press Refresh**: Stuck stream? Just long-press the center button to re-extract and reload.
@@ -40,7 +40,7 @@ MultiTube is a minimalist 4-window video player specifically engineered for Andr
 # 🇭🇺 Magyar leírás
 
 ## ✨ Főbb jellemzők
-- **4-Ablakos elrendezés**: Nézz akár 4 YouTube streamet egyszerre, egyetlen képernyőn.
+- **4-Ablakos elrendezés**: Nézz akár 4 streamet egyszerre, egyetlen képernyőn.
 - **TV Távirányítóra optimalizálva**: Nincs szükség egérre, minden funkció elérhető a tavirányítóval.
 - **Intelligens minőségvezérlés**: Automatikusan állítja a felbontást a fókusz és a TV hardvere alapján.
 - **Hosszú nyomásos frissítés**: Elakadt az adás? Csak tartsd hosszan az OK gombot az újratöltéshez.
