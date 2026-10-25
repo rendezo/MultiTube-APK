@@ -1,6 +1,6 @@
 # 📺 MultiTube - Multi-Window Android TV Player
 
-[![Release](https://img.shields.io/badge/Release-v56-orange.svg)](https://github.com/rendezo/MultiTube-APK/raw/main/MultiTube.apk)
+[![Release](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Frendezo%2FMultiTube-APK%2Fmain%2Fupdate.json&query=%24.versionCode&prefix=v&label=Release&color=orange)](https://github.com/rendezo/MultiTube-APK/raw/main/MultiTube.apk)
 [![Platform](https://img.shields.io/badge/Platform-Android%20TV-blue.svg)](https://www.android.com/tv/)
 
 MultiTube is a minimalist 4-window video player specifically engineered for Android TV. Perfect for monitoring multiple live streams, news channels, or sports events simultaneously on a single screen.
